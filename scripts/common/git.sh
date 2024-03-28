@@ -21,6 +21,9 @@ echo "export GIT_DUET_SET_GIT_USER_CONFIG=1" >> ~/.zshenv  # use regular git com
 echo "Putting a sample authors file in ~/.git-authors if it isn't already there"
 cp -n files/.git-authors ~/.git-authors || true
 
+echo "Installing pair/mob programming remote handover tools"
+brew install remotemobprogramming/brew/mob
+
 echo "Installing git UI tools"
 set +e # Optional; don't exit if they fail
 brew install --cask rowanj-gitx
