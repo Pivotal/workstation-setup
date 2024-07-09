@@ -32,6 +32,10 @@
       "name": "Don Schram",
       "email": "don.schram@arrivehealth.com"
     },
+    "dws": {
+      "name": "Dave Schinkel",
+      "email": "dave.schinkel@arrivehealth.com"
+    },
     "ek": {
       "name": "Ed Kerns",
       "email": "blauentag@gmail.com"
@@ -63,6 +67,10 @@
     "rl": {
       "name": "Ritchie Latimore",
       "email": "ritchie.latimore@arrivehealth.com"
+    },
+    "sw": {
+      "name": "Spencer Whitehead",
+      "email": "spencer.whitehead@arrivehealth.com"
     }
  }
 }
