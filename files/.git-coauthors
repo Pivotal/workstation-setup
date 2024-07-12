@@ -1,6 +1,6 @@
 {
   "coauthors": {
-   "ab": {
+    "ab": {
       "name": "Anna Baer",
       "email": "anna.baer@arrivehealth.com"
     },
@@ -8,7 +8,7 @@
       "name": "Andrew Courter",
       "email": "andrew.courter@arrivehealth.com"
     },
-   "al": {
+    "al": {
       "name": "Anna Lewis",
       "email": "anna.lewis@arrivehealth.com"
     },
@@ -16,11 +16,15 @@
       "name": "Alex Terletskiy",
       "email": "alex.terletskiy@arrivehealth.com"
     },
-   "cl": {
+    "cj": {
+      "name": "Cauri Jaye",
+      "email": "cauri.jaye@arrivehealth.com"
+    },
+    "cl": {
       "name": "Craig Livorsi",
       "email": "craig.livorsi@arrivehealth.com"
     },
-   "dk": {
+    "dk": {
       "name": "Daniel Keeney",
       "email": "daniel.keeney@arrivehealth.com"
     },
@@ -40,7 +44,7 @@
       "name": "Ed Kerns",
       "email": "blauentag@gmail.com"
     },
-   "iip": {
+    "iip": {
       "name": "Iain Irwin-Powell",
       "email": "iain.irwin-powell@arrivehealth.com"
     },
@@ -48,7 +52,7 @@
       "name": "Jared Cross",
       "email": "jared.cross@arrivehealth.com"
     },
-   "jt": {
+    "jt": {
       "name": "Jeff Turley",
       "email": "jeff.turley@arrivehealth.com"
     },
@@ -56,13 +60,21 @@
       "name": "Kyle Campbell",
       "email": "kyle.campbell@arrivehealth.com"
     },
-   "mo": {
+    "mo": {
       "name": "Matt Odille",
       "email": "matthew.odille@arrivehealth.com"
     },
     "pg": {
       "name": "Phil Goodwin",
       "email": "phil.goodwin@arrivehealth.com"
+    },
+    "pz": {
+      "name": "Paul Zabelin",
+      "email": "paul.zabelin@arrivehealth.com"
+    },
+    "rc": {
+      "name": "Robert Cunningham",
+      "email": "robert.cunningham@arrivehealth.com"
     },
     "rl": {
       "name": "Ritchie Latimore",
@@ -71,6 +83,14 @@
     "sw": {
       "name": "Spencer Whitehead",
       "email": "spencer.whitehead@arrivehealth.com"
-    }
- }
+    },
+    "ds": {
+      "name": "Dave Schinkel",
+      "email": "dave.schinkel@arrivehealth.com"
+    },
+    "th": {
+      "name": "Tyler Holland",
+      "email": "tyler.holland@arrivehealth.com"
+    },
+  }
 }
