@@ -7,8 +7,8 @@ alias ga='git add '
 alias gb='git branch '
 alias gc='git commit'
 alias gd='git diff'
-gco() { git checkout "$@"; }
-gcm() { git commit -m "$@"; }
+function gco() { git checkout "$@"; }
+function gcm() { git commit -m "$@"; }
 alias ll='ls -l'
 alias gl='git lg'
 alias gri='git rebase -i'
@@ -27,7 +27,7 @@ alias be='bundle exec'
 alias current='cd ${RX_REVU_HOME}'
 alias delete_branch='cb=$(current_branch) && gco master && git branch -D ${cb}'
 alias mfa="${WORKSTATION_SETUP_HOME}/bin/mfa"
-alias awsume="aws-sso-util login && . awsume sso; . awsume"
+alias awsume="aws-sso-util login && . awsume -a"
 alias gitcp="current_branch | pbcopy"
 
 
